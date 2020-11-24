@@ -16,7 +16,7 @@ namespace esercitazione
             // di far apparire un video il simbolo che è rappresentato dal codice in unicode
 
             // Console.WriteLine (unicodedString);
-            // Console.WriteLine ();
+            // Console.WriteLine();
         }
     }
 }
