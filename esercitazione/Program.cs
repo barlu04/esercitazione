@@ -6,7 +6,7 @@ namespace esercitazione
     {
         static void Main(string[] args)
         {
-            // String unicodedString = "Questa stringa Unicode ha 2 caratteri al di fuori di" +
+            // String unicodedString = "Questa stringa Unicode ha 2 caratteri al di fuori di"  +
             // "Intervallo ASCII: \ n" +
             // "pi (\ u03A0) e Sigma (\ u03A3).";
             Console.WriteLine(" inserisci una stringa ");
