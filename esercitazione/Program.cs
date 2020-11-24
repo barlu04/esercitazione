@@ -12,8 +12,8 @@ namespace esercitazione
             Console.WriteLine(" inserisci una stringa ");
             string unicode = Console.ReadLine();
             // Console.WriteLine ("stringa originale:");
-            // Console.OutputEncoding = System.Text.Encoding.Unicode; questa riga di codice è necessaria al fine
-            // di far apparire un video il simbolo che è rappresentato dal codice in unicode
+            // Console.OutputEncoding = System.Text.Encoding.Unicode; questa riga di codice è necessaria per
+            //  far apparire un video il simbolo che è rappresentato dal codice in unicode
 
             // Console.WriteLine (unicodedString);
             // Console.WriteLine();
